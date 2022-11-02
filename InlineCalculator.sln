@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineCalculator", "InlineCalculator\InlineCalculator.csproj", "{0E9F6E39-E928-47DD-86A3-51F641F8AFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{80A02017-6E14-4DBB-AB94-4DD4BE714213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9F6E39-E928-47DD-86A3-51F641F8AFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9F6E39-E928-47DD-86A3-51F641F8AFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9F6E39-E928-47DD-86A3-51F641F8AFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9F6E39-E928-47DD-86A3-51F641F8AFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A02017-6E14-4DBB-AB94-4DD4BE714213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A02017-6E14-4DBB-AB94-4DD4BE714213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A02017-6E14-4DBB-AB94-4DD4BE714213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A02017-6E14-4DBB-AB94-4DD4BE714213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
